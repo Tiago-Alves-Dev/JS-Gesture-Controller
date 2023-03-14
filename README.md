@@ -5,7 +5,7 @@ Este projeto você vai conseguir interagir com as mãos e psicadas de olhos para
 Esse projeto usa Machine Learning da Google.
 
 ## Preview
-<img width=100% src="./assets/demo-template-lg.gif">
+![captcha](https://github.com/Tiago-Alves-Dev/gifs/blob/main/JSMaosdemostracao-template.gif)
 
 ## Pre-reqs
 
@@ -18,11 +18,11 @@ Esse projeto usa Machine Learning da Google.
 
 ## Observações 
 
-Use ✊️ (mão fechada) para 'scroll-down'
-Use 🖐 (mão aberta) para 'scroll-up'
-Use 🤏🏻 (pinça) para 'click'
+- Use ✊️ (mão fechada) para 'scroll-down'
+- Use 🖐 (mão aberta) para 'scroll-up'
+- Use 🤏🏻 (pinça) para 'click'
 
-Use a piscada de olhos para reproduzir e pausar o video
+- Use a piscada de olhos para reproduzir e pausar o video
 
 ### Créditos ao Layout
 - Interface baseada no projeto [Streaming Service](https://codepen.io/Gunnarhawk/pen/vYJEwoM) de [gunnarhawk](https://github.com/Gunnarhawk)
